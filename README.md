@@ -1,7 +1,7 @@
 # MCQ Generation Pipeline — VS Code Setup & Usage Guide
 
 > **Paper:** "Psychometrically Robust MCQs: Integrating SBERT Distance Filtering and Multi-Source Distractors"  
-> P. Preetha, S. Kalaiselvi, D. Thamarai Selvi, Kala Raja Mohan | National Engineering College, Kovilpatti
+
 
 ---
 
